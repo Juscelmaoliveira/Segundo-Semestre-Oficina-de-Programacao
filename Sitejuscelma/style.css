@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;    
+}
+
+p{
+    font-size: 21px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:grey;  
+}
+
+h1{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(68, 67, 67); 
+    <!--text-shadow: -1px 0 rgb(51, 50, 50), 0 1px rgb(51, 50, 50), 1px 0 rgb(51, 50, 50), 0 -1px rgb(51, 50, 50);--> 
+
+}
+
+li{
+    list-style-type: georgian;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 50px;
+    display: flex;
+}
+
+div {
+    text-align: justify;
+    text-justify: inter-word;
+  }
